@@ -1,0 +1,39 @@
+[Wed Oct  7 18:13:28 2020] 127.0.0.1:48606 [200]: /index.html
+[Wed Oct  7 18:14:01 2020] 127.0.0.1:48610 [200]: /
+[Wed Oct  7 18:14:03 2020] 127.0.0.1:48614 [200]: /css/s9hWiNS5894.css
+[Wed Oct  7 18:14:03 2020] 127.0.0.1:48618 [200]: /css/Epf3I8GM5jv.css
+[Wed Oct  7 18:14:03 2020] 127.0.0.1:48622 [200]: /js/info.js
+[Wed Oct  7 18:14:03 2020] 127.0.0.1:48626 [200]: /js/location.js
+[Wed Oct  7 18:14:09 2020] 127.0.0.1:48630 [200]: /
+[Wed Oct  7 18:14:10 2020] 127.0.0.1:48642 [200]: /css/Epf3I8GM5jv.css
+[Wed Oct  7 18:14:10 2020] 127.0.0.1:48634 [200]: /css/s9hWiNS5894.css
+[Wed Oct  7 18:14:10 2020] 127.0.0.1:48640 [200]: /js/location.js
+[Wed Oct  7 18:14:10 2020] 127.0.0.1:48646 [200]: /js/info.js
+[Wed Oct  7 18:14:15 2020] 127.0.0.1:48650 [200]: /images/cat.jpeg
+[Wed Oct  7 18:14:15 2020] 127.0.0.1:48654 [200]: /images/-r3j-x8ZnM7.svg
+[Wed Oct  7 18:14:16 2020] 127.0.0.1:48658 [200]: /php/info.php
+[Wed Oct  7 18:14:16 2020] 127.0.0.1:48662 [200]: /images/rYZqPCBaG70.png
+[Wed Oct  7 18:14:25 2020] PHP Notice:  Undefined index: Una in /home/erwin/Desktop/tecno dynamic/ethical-hacking/locate/template/whatsapp/php/error.php on line 5
+[Wed Oct  7 18:14:25 2020] PHP Notice:  Undefined index: Time in /home/erwin/Desktop/tecno dynamic/ethical-hacking/locate/template/whatsapp/php/error.php on line 6
+[Wed Oct  7 18:14:25 2020] PHP Notice:  Undefined index: Unk in /home/erwin/Desktop/tecno dynamic/ethical-hacking/locate/template/whatsapp/php/error.php on line 7
+[Wed Oct  7 18:14:25 2020] 127.0.0.1:48666 [200]: /php/error.php
+[Wed Oct  7 18:17:28 2020] 127.0.0.1:48672 [200]: /
+[Wed Oct  7 18:18:04 2020] 127.0.0.1:48676 [200]: /
+[Wed Oct  7 18:18:04 2020] 127.0.0.1:48680 [200]: /css/s9hWiNS5894.css
+[Wed Oct  7 18:18:04 2020] 127.0.0.1:48684 [200]: /css/Epf3I8GM5jv.css
+[Wed Oct  7 18:18:04 2020] 127.0.0.1:48690 [200]: /js/location.js
+[Wed Oct  7 18:18:04 2020] 127.0.0.1:48692 [200]: /js/info.js
+[Wed Oct  7 18:18:09 2020] 127.0.0.1:48696 [200]: /images/-r3j-x8ZnM7.svg
+[Wed Oct  7 18:18:09 2020] 127.0.0.1:48700 [200]: /images/cat.jpeg
+[Wed Oct  7 18:18:10 2020] 127.0.0.1:48704 [200]: /php/info.php
+[Wed Oct  7 18:18:10 2020] 127.0.0.1:48708 [200]: /images/rYZqPCBaG70.png
+[Wed Oct  7 18:18:17 2020] 127.0.0.1:48712 [200]: /
+[Wed Oct  7 18:18:18 2020] 127.0.0.1:48720 [200]: /css/s9hWiNS5894.css
+[Wed Oct  7 18:18:18 2020] 127.0.0.1:48718 [200]: /js/location.js
+[Wed Oct  7 18:18:18 2020] 127.0.0.1:48724 [200]: /css/Epf3I8GM5jv.css
+[Wed Oct  7 18:18:18 2020] 127.0.0.1:48728 [200]: /js/info.js
+[Wed Oct  7 18:18:24 2020] 127.0.0.1:48732 [200]: /images/-r3j-x8ZnM7.svg
+[Wed Oct  7 18:18:24 2020] 127.0.0.1:48736 [200]: /images/cat.jpeg
+[Wed Oct  7 18:18:25 2020] 127.0.0.1:48740 [200]: /php/info.php
+[Wed Oct  7 18:18:25 2020] 127.0.0.1:48744 [200]: /images/rYZqPCBaG70.png
+[Wed Oct  7 18:18:35 2020] 127.0.0.1:48748 [200]: /php/result.php

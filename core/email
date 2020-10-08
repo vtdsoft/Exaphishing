@@ -1,0 +1,12 @@
+#No elimines este archivo
+#No modifiques este archivo
+
+pr1=$(cat pr1)
+pr2=$(cat pr2)
+pr3=$(cat pr3)
+pr4=$(cat pr4)
+victim=$(cat victima)
+envialink=$(cat hola)
+
+export correobycalvinharrisxd=$pr1$victim$pr2"'$envialink'"$pr3"'$envialink'"$pr4
+	
