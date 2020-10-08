@@ -257,7 +257,7 @@ mainMenu(){
  
         echo -e "$r ================================="
         echo -e "$b|| [ 1 ] Phish                   ||"    
-        echo -e "$b|| [ 2 ] Localizar smarthphone  ||" 
+        echo -e "$b|| [ 2 ] Localizar smarthphone   ||" 
         echo -e "$r ================================="
 
         read -p $'\e[1;39m[\e[1;39m*\e[1;39m]\e[1;39m Elige una opción\e[1;39m > ' option
