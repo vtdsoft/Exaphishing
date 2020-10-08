@@ -30,7 +30,8 @@ apt-get upgrade -y
 #### dentro la interfaz se tiene 2 opciones dependiendo de lo que se quiera hacer:
   1)Pishing
   2)Localizacion
-En las 2 opciones se debe usar el servidor ngrok para el funcionamiento,en la segunda opción se usa este servidor mediante la opcion: NearYou
+En las 2 opciones se debe usar el servidor ngrok para el funcionamiento,
+en la segunda opción se usa este servidor mediante la opcion: NearYou
 ```
 
 
