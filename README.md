@@ -4,8 +4,8 @@
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/vtdsoft/Exapish.git
-cd Exapish/
+git clone https://github.com/vtdsoft/Exaphishing.git
+cd Exaphishing/
 chmod 777 install.sh
 ./install.sh
 ```
@@ -13,8 +13,8 @@ chmod 777 install.sh
 ### Termux
 
 ```bash
-git clone https://github.com/vtdsoft/Exapish.git
-cd Exapish/
+git clone https://github.com/vtdsoft/Exaphishing.git
+cd Exaphishing/
 chmod 777 termux_install.sh
 ./termux_install.sh
 ```
