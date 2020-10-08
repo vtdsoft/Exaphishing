@@ -11,7 +11,7 @@ r="\e[1;91m"
 ngrok(){
 echo
 #php -S $link > /dev/null 2>&1 &
-echo -e "$v[$b*$v]$b Enpezando..."
+echo -e "$v[$b*$v]$b Empezando..."
 sleep 2
 
 findngrok
