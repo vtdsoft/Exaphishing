@@ -920,7 +920,7 @@ echo
 port=3333
 echo
 php -S localhost:$port > /dev/null 2>&1 &
-echo -e "$v[$b*$v]$b Enpezando..."
+echo -e "$v[$b*$v]$b Empezando..."
 sleep 2
 if [[ -f run ]];then
 rm run
@@ -958,7 +958,7 @@ echo
 port=3333
 echo
 php -S localhost:$port > /dev/null 2>&1 & 
-echo -e "$v[$b*$v]$b Enpezando..."
+echo -e "$v[$b*$v]$b Empezando..."
 sleep 2
 if [[ -f link ]]; then
 rm -rf link
@@ -992,7 +992,7 @@ fi
 ngrok(){
 echo
 php -S $link > /dev/null 2>&1 &
-echo -e "$v[$b*$v]$b Enpezando..."
+echo -e "$v[$b*$v]$b Empezando..."
 sleep 2
 cd $OLDPWD
 findngrok
@@ -1221,7 +1221,7 @@ echo -e "$a[$b 4$v ] Mostrar una mini url"
 echo -e "$a[$b 5$v ] Mostrar alert box(Puede causar errores)"
 echo -e "$a[$b 6$v ] Redireccionar"
 echo -e "$a[$b 7$v ] Enviar correo falso\n"
-echo -e "$a[$b*$v]$b Para enpezar:\n"
+echo -e "$a[$b*$v]$b Para empezar:\n"
 echo -e "$v[$b*$v]$b Escribe run o start.\n"
 }
 
